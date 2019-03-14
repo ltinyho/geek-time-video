@@ -10,3 +10,7 @@
 `python3 get_video.py`
 
 `python3 download.py`
+
+## 问题
+
+如果只获取到前几个视频的地址,说明模拟登录失败,重新复制cookie
